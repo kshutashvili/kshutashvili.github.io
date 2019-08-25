@@ -1,13 +1,13 @@
 # Site settings
-title: Dominik Moritz
-email: domoritz@cs.washington.edu
+title: Alex Kshutashvili
+email: alex.kshutashvili@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Dominik Moritz: PhD student in Computer
   Science & Engineering at the University of Washington.
   Interested in Data Visualization and Databases.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.domoritz.de" # the base hostname & protocol for your site
-production_url: "https://www.domoritz.de"
+url: "https://kshutashvili.github.io" # the base hostname & protocol for your site
+production_url: "https://kshutashvili.github.io"
 github_username: domoritz
 permalink: /blog/:year/:month/:title.html
 
