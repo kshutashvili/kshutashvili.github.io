@@ -4,7 +4,7 @@ title: "Home"
 class: home
 ---
 
-# Привет,Я Александр 
+# Расккажу Вам о себе ;) 
 
 <div class="columns" markdown="1">
 
