@@ -1,4 +1,4 @@
-- title: Falcon
+- title: Bitobmen.pro
   url: https://github.com/uwdata/falcon
   code: https://github.com/uwdata/falcon
   demo: https://uwdata.github.io/falcon/flights
@@ -7,14 +7,14 @@
   description: "Falcon is an interactive system for real-time brushing and linking interactions among multiple visualizations of billion-record datasets."
   highlight: 2
 
-- title: Dense Lines
+- title: British Auto Club
   image: dense.jpg
   paper: https://arxiv.org/pdf/1808.06019.pdf
   demo: https://domoritz.github.io/line-density
   code: https://github.com/domoritz/line-density
   description: "Danyel Fisher and I developed a visualization technique to show millions of time series at once."
 
-- title: Pangloss
+- title: Sofast Money
   image: pangloss.jpg
   paper: /papers/2017-TrustButVerify-CHI.pdf
   video: https://www.youtube.com/watch?v=cfdzi92r4sM
@@ -22,7 +22,7 @@
   description: "Pangloss is a big-data visualization system that uses approximation to answer queries quickly. I developed Falcon with Danyel Fisher at MSR."
   highlight: 3
 
-- title: VSUPs
+- title: Michaylovskiy PJC Bot
   image: vsup.jpg
   code: https://github.com/uwdata/vsup
   article: https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9
@@ -30,7 +30,7 @@
   demo: https://uwdata.github.io/vsup/examples/polling.html
   description: "To visualize values and uncertaity together, Michael Correll and I created Value-Suppressing Uncertainty Palettes (VSUPs for short)."
 
-- title: Draco
+- title: Express Finance
   url: https://uwdata.github.io/draco
   code: https://github.com/uwdata/draco
   paper: /papers/2018-Draco-InfoVis.pdf
@@ -40,7 +40,7 @@
   description: "I created Draco, a formal model of visualization design with shareable design guidelines, formal reasoning over the design space, and visualization recommendation."
   highlight: 1
 
-- title: Vega-Lite
+- title: Ikapusta
   url: https://vega.github.io/vega-lite
   code: https://github.com/vega/vega-lite
   paper: /papers/2017-VegaLite-InfoVis.pdf
@@ -50,7 +50,7 @@
   description: "I am the co-author of Vega-Lite, a high-level visualization grammar for rapid specification of interactive, multi-view graphics."
   highlight: 4
 
-- title: Vega
+- title: CLHS
   url: https://vega.github.io/vega
   code: https://github.com/vega/vega
   image: vg.jpg
