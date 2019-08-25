@@ -45,10 +45,10 @@ During my first year at UW, I received support from the [Fulbright program](http
 </div>
 <a href="{{ "/projects/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
-  Show More Projects
+  Больше проектов
 </a>
 
-## Featured Publications
+## Последние публикации
 
 <div class="featured-publications">
   {% for pub in site.data.publications %}
@@ -65,7 +65,7 @@ During my first year at UW, I received support from the [Fulbright program](http
 
 <a href="{{ "/publications/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
-  Show All Publications
+  Все публикации
 </a>
 
 <div class="news-travel" markdown="1">
