@@ -9,11 +9,12 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a PhD candidate in the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/). I work with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+Я, IT Project Manager с наклонностями Product Manager. Имею практическим опытом создания IT продуктов и управления IT проектами в IT/Fintech. По образованию [Инженер-механик](http://sazt-snu.in.ua/DesktopDefault.aspx). Закончил [Восточноукраинский национальный университет имени В. И. Даля (ВНУ им. Даля)](https://snu.edu.ua).
 
-I research scalable interactive systems for visualization and analysis. My systems have won awards at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
+Согласитесь! Нет ничего увлекательнее стартапов. И не спорьте ;) Ведь это путь от нуля до ста или от нуля к нулю. Удачи, не удачи, победа, старт, запуск.
+Огромное удовольтвие получаю от работы с командами разработки [Python](https://ru.wikipedia.org/wiki/Python) / [Django Framework](https://ru.wikipedia.org/wiki/Django) / [Blockcahin](https://ru.wikipedia.org/wiki/Блокчейн). Имею практический опыт создания Full Stack команд. От дизайна до сопровождения проектов.
 
-In September 2019, I will start as a researcher at [Apple](https://www.apple.com/), working on data visualization and interactive systems for artificial intelligence. In 2020, I will start as an assistant professor at [Carnegie Mellon University](https://hcii.cmu.edu/).
+С осени 2014 года , погружен в финансовые технологии [Fintech](https://ru.wikipedia.org/wiki/Финансовые_технологии) работал над проектом[Sofast Money](https://www.youtube.com/watch?v=Y4bffq1vOjA), мой первый стартап, ставший финалистом конкурса [Sikorsky Challenge](https://www.sikorskychallenge.com). Согласитесь маленькое достижение, но именно с этого все началось.  In 2020, I will start as an assistant professor at [Carnegie Mellon University](https://hcii.cmu.edu/).
 </div>
 
 <div class="me" markdown="1">
