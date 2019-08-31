@@ -15,7 +15,7 @@ class: home
 Огромное удовольствие получаю от работы с командами разработки [Python](https://ru.wikipedia.org/wiki/Python) / [Django Framework](https://ru.wikipedia.org/wiki/Django) / [Blockcahin](https://ru.wikipedia.org/wiki/Блокчейн). Имею практический опыт создания Full Stack команд. От дизайна до сопровождения проектов.
 
 Старатапы в моей жизни появились в 2014 году , погружен в финансовые технологии [Fintech](https://ru.wikipedia.org/wiki/Финансовые_технологии) работал над проектом [Sofast Money](https://www.youtube.com/watch?v=Y4bffq1vOjA), мой первый стартап, ставший финалистом конкурса [Sikorsky Challenge](https://www.sikorskychallenge.com). Согласитесь маленькое достижение, но именно с этого все началось.  Если вам интересен Fintech и стартапы - нам с вами по пути! 
-Профессиотнальное упралвение IT инфраструктурой финансовых компаний и Pay Day Loan проектов.
+Профессиональное управление IT инфраструктурой финансовых компаний и Pay Day Loan проектов.
 </div>
 
 <div class="me" markdown="1">
