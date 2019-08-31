@@ -9,12 +9,13 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-Я, IT Project Manager с наклонностями Product Manager. Имею практическим опытом создания IT продуктов и управления IT проектами в IT/Fintech. По образованию [Инженер-механик](http://sazt-snu.in.ua/DesktopDefault.aspx). Закончил [Восточноукраинский национальный университет имени В. И. Даля (ВНУ им. Даля)](https://snu.edu.ua).
+Я, IT Project Manager с наклонностями Product Manager. Имею практическим опытом создания IT продуктов и управления IT проектами в IT/Fintech. По образованию [Инженер-механик](http://sazt-snu.in.ua/DesktopDefault.aspx). Закончил [Восточноукраинский национальный университет имени В. И. Даля ВНУ им. Даля](https://snu.edu.ua). В 2015 году прошел курс [Практика запуска стартапа](https://www.sikorskychallenge.com/startup-contest/) в стартап школе [Sikorsky Challenge](https://www.sikorskychallenge.com/стартап-школа/). Старт карьеры 2010 год от должности финансового менеджера отделения [Приват Банк] до IT диреткора финансовой компании [Экспресс Финанс]. В 2018 году основал компанию [Finceh](https://finceh.com). Компания, которой мы успешно управляем и помогаем партнерам запускать Fintech проекты.
 
 Согласитесь! Нет ничего увлекательнее стартапов. И не спорьте ;) Ведь это путь от нуля до ста или от нуля к нулю. Удачи, не удачи, победа, старт, запуск.
 Огромное удовольтвие получаю от работы с командами разработки [Python](https://ru.wikipedia.org/wiki/Python) / [Django Framework](https://ru.wikipedia.org/wiki/Django) / [Blockcahin](https://ru.wikipedia.org/wiki/Блокчейн). Имею практический опыт создания Full Stack команд. От дизайна до сопровождения проектов.
 
-С осени 2014 года , погружен в финансовые технологии [Fintech](https://ru.wikipedia.org/wiki/Финансовые_технологии) работал над проектом[Sofast Money](https://www.youtube.com/watch?v=Y4bffq1vOjA), мой первый стартап, ставший финалистом конкурса [Sikorsky Challenge](https://www.sikorskychallenge.com). Согласитесь маленькое достижение, но именно с этого все началось.  In 2020, I will start as an assistant professor at [Carnegie Mellon University](https://hcii.cmu.edu/).
+Старатапы в моей жизни появились в 2014 году , погружен в финансовые технологии [Fintech](https://ru.wikipedia.org/wiki/Финансовые_технологии) работал над проектом [Sofast Money](https://www.youtube.com/watch?v=Y4bffq1vOjA), мой первый стартап, ставший финалистом конкурса [Sikorsky Challenge](https://www.sikorskychallenge.com). Согласитесь маленькое достижение, но именно с этого все началось.  Если вам интересен Fintech и стартапы - нам с вами по пути! 
+Профессиотнальное упралвение IT инфраструктурой финансовых компаний и Pay Day Loan проектов.
 </div>
 
 <div class="me" markdown="1">
