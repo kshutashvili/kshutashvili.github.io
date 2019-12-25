@@ -1,29 +1,13 @@
-- title: University of Washington
+- title: East Ukrainanian University
   courses:
-    - title: Distributed Systems
-      with: Tom Anderson
-    - title: Data Visualization
-      with: Jeffrey Heer
-    - title: Programming Languages
-      with: Zach Tatlock
-    - title: Databases
-      with: Magdalena Balazinska
-    - title: Computer Vision
-      with: Ali Farhadi
-    - title: Machine Learning
-      with: Sham Kakade
-    - title: Statistical Methods for Machine Learning
-      with: Pedro Domingos
-    - title: Constraint Programming
-      with: Alan Borning
-    - title: User Studies
+    - title: Web Design 
       with: Mike Ernst
-- title: University of Potsdam
+- title: Kiyv Politechnical University
   courses:
-    - title: Declarative Problem Solving
+    - title: Startup Practice
     - title: Applied Logic
     - title: Artificial Intelligence
-- title: Hasso Plattner Institute
+- title: PMCLUB.PRO
   courses:
     - title: Databases I and II
     - title: Designing Interactive Systems

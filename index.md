@@ -4,17 +4,21 @@ title: "Home"
 class: home
 ---
 
-# Расcкажу Вам о себе ;) 
+# Founder in Finceh LLC 
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-Я, IT Project Manager с наклонностями* :) Product Manager. Имею практическим опытом создания IT продуктов и управления IT проектами в IT/Fintech. По образованию [Инженер-механик](http://sazt-snu.in.ua/DesktopDefault.aspx). Закончил [Восточноукраинский национальный университет имени В. И. Даля ВНУ им. Даля](https://snu.edu.ua). В 2015 году прошел курс [Практика запуска стартапа](https://www.sikorskychallenge.com/startup-contest/) в стартап школе [Sikorsky Challenge](https://www.sikorskychallenge.com/стартап-школа/). Старт карьеры 2010 год от должности финансового менеджера отделения [Приват Банк] до IT диреткора финансовой компании [Экспресс Финанс]. В 2018 году основал компанию [Finceh](https://finceh.com). Компания, которой мы успешно управляем и помогаем партнерам запускать Fintech проекты.
+Founder/Product Owner в Finceh LLC более 10 лет опыта в IT из них 6 лет это Fintech. Образованию [Инженер-механик](http://sazt-snu.in.ua/DesktopDefault.aspx). Закончил [Восточноукраинский национальный университет имени В. И. Даля ВНУ им. Даля](https://snu.edu.ua). В 2015 году прошел курс [Практика запуска стартапа](https://www.sikorskychallenge.com/startup-contest/) . Курс "Project Manager 101" в PMClub. Курс "Basic Python" в SPALAH IT
+Карьера: 
+2010-2012. Финансовый менеджер отделения [Приват Банк] , 
+2012-2013. Руководитель отделения группы В [Приват Банк], 
+2015-2016. Главный специлист по облсуживанию интернет-проектов КЦ [Банк Михайловский], 2016-2017. Директор по развитию бизнеса [MACCALL], 2017-2019. IT диреткор финансовой компании [Экспресс Финанс]. 
+Личные бизнес проекта проекты: [K2K](https://k2k.in.ua) - 2017, [TIME2PAY](https://time2pay.com.ua) - 2017, [Finceh](https://finceh.com) - 2018 , [TseCore](https://tsecore.finceh.com) - 2019, 
+[FINK.AM](http://fink.am) - 2019
 
-Согласитесь! Нет ничего увлекательнее стартапов. И не спорьте ;) Ведь это путь от нуля до ста или от нуля к нулю. Удачи, не удачи, победа, старт, запуск.
-Огромное удовольствие получаю от работы с командами разработки [Python](https://ru.wikipedia.org/wiki/Python) / [Django Framework](https://ru.wikipedia.org/wiki/Django) / [Blockcahin](https://ru.wikipedia.org/wiki/Блокчейн). Имею практический опыт создания Full Stack команд. От дизайна до сопровождения проектов.
+Практический опыт работы с командами разработки [Python](https://ru.wikipedia.org/wiki/Python) / [Django Framework](https://ru.wikipedia.org/wiki/Django) / [Blockcahin](https://ru.wikipedia.org/wiki/Блокчейн). Управление  Full Stack командами. 
 
-Старатапы в моей жизни появились в 2014 году , погружен в финансовые технологии [Fintech](https://ru.wikipedia.org/wiki/Финансовые_технологии) работал над проектом [Sofast Money](https://www.youtube.com/watch?v=Y4bffq1vOjA), мой первый стартап, ставший финалистом конкурса [Sikorsky Challenge](https://www.sikorskychallenge.com). Согласитесь маленькое достижение, но именно с этого все началось.  Если вам интересен Fintech и стартапы - нам с вами по пути! 
 Профессиональное управление IT инфраструктурой финансовых компаний и Pay Day Loan проектов.
 </div>
 
@@ -23,17 +27,17 @@ class: home
   <source srcset='/images/dominik_berlin.webp' type='image/webp' />
   <img
     src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'/>
+    alt='Aleksandr Kshutashvili'/>
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* [Paul G. Allen Center](http://www.washington.edu/maps/?q=cse) Room [486](https://norfolk.cs.washington.edu/directory/index.php?prev_floor=4&show_room=CSE486)
+* [Alex Kshutashvili](http://www.washington.edu/maps/?q=cse) Room [486](https://norfolk.cs.washington.edu/directory/index.php?prev_floor=4&show_room=CSE486)
 </div>
 
 </div>
 
-В 2015 команда Sofast Money получила сервера от [Microsoft Bizspark ](https://en.wikipedia.org/wiki/Fulbright_Program). Что позовлило развить продукт и инфраструктуру. В конце 2015, в связи с отстуствем инвестиций и поголовным падением банков  было принято решение завершить проект. После чего команда перешла в разработку проектов на Blockchain. Детали карьеры в моем [CV]({{ "/cv/" | relative_url }}).
+Детали карьеры в моем [CV]({{ "/cv/" | relative_url }}).
 
 ## Последние проекты
 
